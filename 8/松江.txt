@@ -74,3 +74,22 @@ happy,http://play-tx.infojin.top:80/live/0ec10ad3e38f6e218ecbb70d5ee7a1c1.m3u8
 彩虹e,http://play-tx.infojin.top:80/live/93da0e5658a1a56b7518797b59c33c99.m3u8
 松视3,http://play-tx.infojin.top:80/live/5a5abf73bba5306415a54cc607207bc9.m3u8
 松视1,http://play-tx.infojin.top:80/live/50506710f16550aba81f2c51f14c0cc8.m3u8
+龍哥频道,#genre#
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+松视3,http://pull-skycorp.speedws.com:80/live/40cdc0c7ca392cd4e05e34c35c54705e.flv
+K频道,http://pull-skycorp.speedws.com:80/live/a3e2f2c2167f59f1c842106f91049915.flv
+e频道,http://pull-skycorp.speedws.com:80/live/2c944d160e8ad5fa1d19b7466e3c3779.flv
+e频道,http://pull-skycorp.speedws.com:80/live/c221d53f174413b5edfd700bb99eed06.flv
+彩虹电影,http://pull-skycorp.speedws.com:80/live/087c7cdcd55923595ed67d9c549b4507.flv
+彩虹电影台,http://pull-skycorp.speedws.com:80/live/17f226ded990618a534f585160639e6a.flv
+潘多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+潘多拉,http://pull-skycorp.speedws.com:80/live/062985a728a82060adc78f03c87ef267.flv
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+惊艳台,http://pull-skycorp.speedws.com:80/live/8dd8726808707f615d36aaa17bdfc021.flv
+香蕉台,http://pull-skycorp.speedws.com:80/live/58b12796aac051d5017d47a0ec4e861f.flv
+Happy ,http://pull-skycorp.speedws.com:80/live/bb91f4fde6f9bab52ab0f7357d3d9725.flv
+极限电影台,http://pull-skycorp.speedws.com:80/live/246eee014a007263bbe65fc09be9e875.flv
